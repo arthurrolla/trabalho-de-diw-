@@ -1,0 +1,242 @@
+html {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: auto;
+}
+
+/*Cabecalho*/
+header {
+  background-color: rgb(104, 78, 78);
+  width: 100%;
+  height: 10%;
+}
+
+.menuprincipal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  color: white;
+  padding: 50px;
+}
+
+.secaomenu {
+  padding: 20px;
+}
+
+.menuprincipal ul li {
+  display: inline;
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
+
+.secaomenu li a {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  padding: 25px;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 4px solid black;
+  margin: 2px 55px 20px;
+}
+
+
+
+
+.card {
+  background-color: rgb(190, 190, 190);
+}
+
+
+/*Perfil*/
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.col-md-6 .perfil {
+  padding-top: 10px;
+  width: 300px;
+}
+
+#descricao {
+  padding-top: 20px;
+
+}
+
+#images {
+  width: 50px;
+  height: auto;
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.card card-img-top {
+  border-radius: 30px;
+  padding: 10px;
+  max-width: 30%;
+  max-height: 30%;
+}
+html {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: auto;
+}
+
+/*Cabecalho*/
+header {
+  background-color: rgb(104, 78, 78);
+  width: 100%;
+  height: 10%;
+}
+
+.menuprincipal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  color: white;
+  padding: 50px;
+}
+
+.secaomenu {
+  padding: 20px;
+}
+
+.menuprincipal ul li {
+  display: inline;
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
+
+.secaomenu li a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  padding: 25px;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 4px solid black;
+
+}
+
+
+
+
+.card {
+  background-color: rgb(104, 78, 78);
+}
+
+
+/*Perfil*/
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#fotoPerfil {
+  width: 80%;
+  max-width: 100%;
+  max-height: 400px;
+  height: 100%;
+}
+
+#descricao {
+  padding-top: 20px;
+}
+
+.informacoes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.informacoes-pessoas {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#images {
+  width: 50px;
+  height: auto;
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.card-img-top {
+  padding: 10px;
+  height: 250px;
+  max-height: 100%;
+}
+span {
+  background-color: rgb(175, 175, 175);
+}
+.cor {
+  background-color: rgb(175, 175, 175);
+}
+
+.slider{
+  position: relative;
+  padding: 30px 30px 30px 30px ;
+  margin: 30px;
+  background-color: skyblue;
+}
+/*colega*/
+
+.colega img{
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.colega h5{
+    margin: 0 25px 30px;
+    align-content: center;
+}
+  
